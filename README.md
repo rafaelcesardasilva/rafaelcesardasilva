@@ -1,5 +1,5 @@
 
 <h2> Olá me chamo Rafael 👋</h2>
-<p style="color:red">Sou Desenvolvedor front-end</p>
-<p></p>
+<p style="color: red">Sou Desenvolvedor front-end</p>
+
 
